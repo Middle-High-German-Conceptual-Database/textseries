@@ -8,7 +8,7 @@ Repository content
 ------------------
 
 * `skos`: machine-readable version in SKOS
-* See also the project website at [URL](http://www.mhdbdb.sbg.ac.at/textreihen)
+* See also the project website at [http://www.mhdbdb.sbg.ac.at/textreihen](marketext.at/Textreihentypologie)
 
 How To
 -----------------------
