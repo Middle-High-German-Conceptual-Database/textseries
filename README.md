@@ -63,6 +63,7 @@ Contributors
 Projects using mhdbdb text series
 -------------------------
 * [Mittelhochdeutsche Begriffsdatenbank](http://www.mhdbdb.sbg.ac.at)
+* [Magical Written Artefacts in Late-Medieval German Instructional Literature] (https://www.csmc.uni-hamburg.de/written-artefacts/research-fields/field-k/rfk03.html)
 * … more in preparation
 
 Reference publication (please cite when using mhdbdb text series!)
