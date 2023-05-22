@@ -41,7 +41,7 @@ Each work needs (at least) one main form and one associated distinct origin in t
 We recommend using the already existing BIBFRAME (Bibliographic Framework) property "genre" and the attribute "genreForm" for ontologies in the sense of better machine readability and interoperability in the Semantic Web - although strictly speaking we are not talking about genres, but about text series. However, this is not problematic in this case, a machine does not discuss what the difference between genre and text series is, but only reads out identifiers.
 Works (in the Semantic Web mostly classes) therefore always get two new properties, for example:
 - *genreForm* (exact assignment 1-n)
-- *genreFormMainparent* (unique origin of 1-n)
+- *genreFormMainparent* (distinct origin of 1-n)
 
 For example, the triples are formed as follows:
 | <!-- -->      | <!-- -->        | <!-- -->      |
