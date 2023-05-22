@@ -21,7 +21,7 @@ Each data entry has an ID that can be uniquely referenced in the Semantic Web, f
 | Losbuch    | c_d21adda7   | 
 
 2.
-If required, each work which is annotated with the SKOS vocabulary can also be assigned more than one textseries entry, for example:
+If required, each work which is annotated with the SKOS vocabulary can also be assigned more than one text series entry, for example:
 | Work | SKOS / exact classification 1 (*genreForm*) | SKOS / exact classification 2 (*genreForm*) |
 |----------|----------|----------|
 | Stricker: Die Gäuhühner    | Bîspel (c_8bb910cf)   | Allegorie (c_dd3320dc)   |
@@ -38,7 +38,7 @@ Each work needs (at least) one main form and one associated distinct origin in t
 | Wach uff myn hort (Rostocker Liederbuch)    | Tagelied (c_2e829572)   | Liederbuchlyrik (c_76c0e2b7)   |
 | Hans Folz: Bäderbüchlein   | Bäderschrift (c_6a30d34d)   | Texte zur Behandlung von Krankheiten (c_97d95287)   | Bäderschrift (c_6a30d34d) | Reiseliteratur (c_90d500db) |
 
-We recommend using the already existing BIBFRAME (Bibliographic Framework) property "genre" and the attribute "genreForm" for ontologies in the sense of better machine readability and interoperability in the Semantic Web - although strictly speaking we are not talking about genres, but about textseries. However, this is not problematic in this case, a machine does not discuss what the difference between genre and textseries is, but only reads out identifiers.
+We recommend using the already existing BIBFRAME (Bibliographic Framework) property "genre" and the attribute "genreForm" for ontologies in the sense of better machine readability and interoperability in the Semantic Web - although strictly speaking we are not talking about genres, but about text series. However, this is not problematic in this case, a machine does not discuss what the difference between genre and text series is, but only reads out identifiers.
 Works (in the Semantic Web mostly classes) therefore always get two new properties, for example:
 - *genreForm* (exact assignment 1-n)
 - *genreFormMainparent* (unique origin of 1-n)
