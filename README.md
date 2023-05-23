@@ -51,12 +51,12 @@ For example, the triples are formed as follows:
 
 Coordinators
 ------------
-* Katharina Zeppezauer-Wachauer, Salzburg, Austria
-* Marco Heiles, Hamburg, Germany
+* Katharina Zeppezauer-Wachauer, Salzburg, Austria (https://github.com/wachauer)
+* Marco Heiles, Hamburg, Germany (https://github.com/Marco-Heiles)
 
 Contributors
 ------------
-* Peter Färberböck, Salzburg, Austria
+* Peter Färberböck, Salzburg, Austria (https://github.com/PeterF-PLUS)
 * Julia Höpfner, Darmstadt, Germany
 * Leonie Weiss, Darmstadt, Germany
 
