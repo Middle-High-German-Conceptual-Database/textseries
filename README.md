@@ -78,4 +78,4 @@ Please use the issue tracker here on GitHub or write us an email: katharina.wach
 
 Acknowledgments
 ---------------
-The research for the mhdbdb text series - Textreihentypologie was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany´s Excellence Strategy – EXC 2176 ‘Understanding Written Artefacts: Material, Interaction and Transmission in Manuscript Cultures’, project no. 390893796. The research was conducted within the scope of the Centre for the Study of Manu-script Cultures (CSMC) at Universität Hamburg.
+The research for the mhdbdb text series - Textreihentypologie was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany´s Excellence Strategy – EXC 2176 ‘Understanding Written Artefacts: Material, Interaction and Transmission in Manuscript Cultures’, project no. 390893796. The research was conducted within the scope of the Centre for the Study of Manu-script Cultures (CSMC) at Universität Hamburg and supported by the DFG-network ‘Linked Open Middle Ages’ at TU Darmstadt.
