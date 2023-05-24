@@ -7,7 +7,7 @@ mhdbdb text series is an application-oriented thesaurus that can be used to clas
 Repository content
 ------------------
 
-* `skos`: machine-readable version in SKOS
+* `skos`: machine-readable version in [SKOS](https://www.w3.org/2004/02/skos/)
 * See also the project website at [http://www.mhdbdb.sbg.ac.at/textreihen](http://www.marketext.at/Textreihentypologie)
 
 How To
@@ -38,7 +38,7 @@ Each work needs (at least) one main form and one associated distinct origin in t
 | Wach uff myn hort (Rostocker Liederbuch)    | Tagelied (c_2e829572)   | Liederbuchlyrik (c_76c0e2b7)   |
 | Hans Folz: Bäderbüchlein   | Bäderschrift (c_6a30d34d)   | Texte zur Behandlung von Krankheiten (c_97d95287)   | Bäderschrift (c_6a30d34d) | Reiseliteratur (c_90d500db) |
 
-We recommend using the already existing BIBFRAME (Bibliographic Framework) property "genre" and the attribute "genreForm" for ontologies in the sense of better machine readability and interoperability in the Semantic Web - although strictly speaking we are not talking about genres, but about text series. However, this is not problematic in this case, a machine does not discuss what the difference between genre and text series is, but only reads out identifiers.
+We recommend using the already existing [BIBFRAME (Bibliographic Framework)](https://bibfra.me/vocab/lite/genre) property "genre" and the attribute "genreForm" for ontologies in the sense of better machine readability and interoperability in the Semantic Web - although strictly speaking we are not talking about genres, but about text series. However, this is not problematic in this case, a machine does not discuss what the difference between genre and text series is, but only reads out identifiers.
 Works (in the Semantic Web mostly classes) therefore always get two new properties, for example:
 - *genreForm* (exact assignment 1-n)
 - *genreFormMainparent* (distinct origin of 1-n)
