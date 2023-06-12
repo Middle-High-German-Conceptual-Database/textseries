@@ -1,4 +1,4 @@
-mhdbdb text series - Textreihentypologie (v. 1.0.0, 05/2023)
+mhdbdb text series - Textreihentypologie (v. 1.0.0, 06/2023)
 =====================================================================================
 
 mhdbdb text series is an application-oriented thesaurus that can be used to classify and annotate resources in order to derive various benefits from them: For example, the indexing of sources, consideration in web user interfaces, the enrichment of bibliographic metadata/norm data and, last but not least, an expansion of the method inventory and improved contextualisation overall.
